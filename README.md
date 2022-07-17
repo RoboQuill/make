@@ -1,4 +1,4 @@
-# Templates for Make automations with RoboQuill
+# Scenario blueprints to connect your crm/website to RoboQuill
 Here we will share our custom build automations all ready for you to upload to your Make account!
 
 All these automations are completely free to download and use in your Make account (you will need a paid plan in Make). We will continue adding more automations to help you automate sending handwritten notes and letters directly from your platform.
